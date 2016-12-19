@@ -514,7 +514,7 @@ ul.breadcrumb li+li:before {
 ul.breadcrumb li a {color: white;}
 
 .hero-planner{
-	background-image: url("images/hero2.jpg");	
+	background-image: url("Images/hero2.jpg");	
 	background-size: cover;
 	height: 550px;
 	padding-top: 30px;
